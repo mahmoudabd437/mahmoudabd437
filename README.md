@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Optimizing AI inference pipelines for production**
 
-- 👨‍💻 All of my projects are available at [https://mahmoud-portfolioo.netlify.app/](https://mahmoud-portfolioo.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://mahmoud-portfolioo.netlify.app](https://mahmoud-portfolio-chi.vercel.app/)/]
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-abd-elmoneam-ramadan-738146304](https://www.linkedin.com/in/mahmoud-abd-elmoneam-ramadan-738146304)
 
